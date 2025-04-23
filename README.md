@@ -1,16 +1,26 @@
-## Hi there 👋
+![Header](https://raw.githubusercontent.com/artiushchenkoA/artiushchenkoA/main/assets/header.png)
 
-<!--
-**artiushchenkoA/artiushchenkoA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Artemii Artyushchenko
 
-Here are some ideas to get you started:
+🎓 Computer Science student at [FIT CTU](https://fit.cvut.cz/en), Prague, Czech Republic  
+💡 Passionate about algorithms, data structures, and problem-solving  
+🛠️ Coding in C++, Python, and exploring new technologies  
+📫 Reach me at:  
+   - artyuart@fit.cvut.cz  
+   - artiuschenko.a@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📂 My Projects
+
+- **LeetCode Solutions**: Organized by difficulty and problem number. Check out my [LeetCode repository](https://github.com/artiushchenkoA/leetcode-solutions).
+
+- **University Assignments**: Repositories for various courses at FIT CTU, including `BIE-APS`, `BIE-PA2`, and more.
+
+- **Personal Projects**: Small programs like `food-tracker`, `task-manager`, and others to practice and demonstrate my coding skills.
+
+---
+
+## 📊 GitHub Stats
+
+![Artemii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=artiushchenkoA&show_icons=true&theme=default)
